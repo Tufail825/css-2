@@ -1,0 +1,171 @@
+@font-face {
+    font-family: anandablack;
+    src: url(./AnandaBlackPersonalUseRegular-rg9Rx.ttf);
+}
+@font-face {
+    font-family: anksanturay;
+    src: url(./AnkhSanctuary-PVK0B.ttf);
+}
+@font-face {
+    font-family: ateraforza;
+    src: url(./AtreaForza-wo2Dz.otf);
+}
+@font-face {
+    font-family:nestcopper ;
+    src: url(./Nestocopper42-1GVw2.ttf);
+}
+@font-face {
+    font-family:sellenabrush ;
+    src: url(./SellenaBrush-x3JyK.ttf);
+}
+@font-face {
+    font-family: warriotech;
+    src: url(./WarriotTech-rvdRp.ttf);
+}
+@font-face {
+    font-family:warriotecitalic ;
+    src: url(./WarriotTechItalic-YqOoa.ttf);
+}
+@font-face {
+    font-family:demogolden ;
+    src: url(./Demogoldenrouge-e9nnO.otf);
+}
+@font-face {
+    font-family: briscademo;
+    src: url(./BriscaDemo-LVKmy.otf);
+}
+.ass-1{
+    text-align: center;
+}
+
+.ass-1 h1{
+        font-size: 40px;
+        font-family: ateraforza;
+        color: rgb(5, 5, 88);
+}
+
+.ass-1 h2{
+    font-size: 30px;
+    font-family: nestcopper;
+}
+.ass-1 p{
+    font-size: 20px;
+    font-family: demogolden;
+}
+.h-1{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(177, 27, 22);
+    font-family: nestcopper;
+}
+.ass-2{
+    font-size: 20px;
+    text-align: center;
+    border: 10px solid black;
+    margin-left: 40px;
+    margin-right: 30px;
+    margin-top: 50px;
+    padding: 40px;
+    font-family: briscademo;
+}
+.ass-2 p{
+    border: 10px solid green;
+}
+.ass-3{
+    text-align: center;
+    font-family: nestcopper;
+    color: rgb(73, 147, 75);
+}
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 30px;
+    /* background-color: black; */
+    color: black;
+    font-size: 30px;
+
+}
+nav
+{
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+    /* background-color: rgba(0, 0, 255, 0.763); */
+
+}
+i{
+    float: left;
+}
+
+
+i{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+a{
+    text-decoration: none;
+    font-family: nestcopper ;
+
+}
+ a:hover{
+    background-color: rgba(189, 8, 213, 0.672);
+    color: white;
+    padding: 10px;
+}
+a:link{
+    color: rgb(36, 24, 11);
+}
+a:active{
+    color: green;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(252, 180, 14);
+    font-family: nestcopper;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    font-family: warriotech;
+    color: rgba(152, 155, 15, 0.806);
+}
+
+.btn{
+    margin-left: 60px;
+    font-size: 50px;
+    border-radius: 50px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 80px;
+    background-color: white;
+    color: black;
+}
+.btn:hover{
+    background-color: aqua;
+}
+.btn:active{
+    color: blue;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+.form{
+    border: 5px solid rgb(251, 22, 22);
+
+}
+
+
+
+
